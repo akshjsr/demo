@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_explore.xml",
+        "source": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\src\\main\\res\\layout\\activity_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wallpaper.xml",
+        "source": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\src\\main\\res\\layout\\activity_wallpaper.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tech.xml",
+        "source": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\src\\main\\res\\layout\\activity_tech.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mt.xml",
+        "source": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\src\\main\\res\\layout\\activity_mt.xml"
+    }
+]

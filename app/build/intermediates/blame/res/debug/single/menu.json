@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tech.xml",
+        "source": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\src\\main\\res\\menu\\tech.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\build\\intermediates\\res\\merged\\debug\\menu\\explore.xml",
+        "source": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\src\\main\\res\\menu\\explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\build\\intermediates\\res\\merged\\debug\\menu\\wallpaper.xml",
+        "source": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\src\\main\\res\\menu\\wallpaper.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\build\\intermediates\\res\\merged\\debug\\menu\\mt.xml",
+        "source": "C:\\Users\\Akash\\Documents\\Android Studio\\Searchme\\app\\src\\main\\res\\menu\\mt.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akash\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Akash\Documents\Android Studio\Searchme\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_30052b06cb4f8715a7a5bfe1f62996ef559e1546.jar" />
+    </item>
+
+</items>
